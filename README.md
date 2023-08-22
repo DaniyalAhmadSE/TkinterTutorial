@@ -1,2 +1,2 @@
 # Tkinter Tutorial
-Tkinter tutorial for beginner
+Tkinter tutorial for beginners
